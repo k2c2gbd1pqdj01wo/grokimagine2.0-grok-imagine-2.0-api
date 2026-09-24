@@ -2,7 +2,7 @@
 
 > **upload-image $0; default $0.015; region-edit $0.015** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-d1e20e)** · **[Get an API key](https://go.apimart.ai/k-a35bac)**
 
 Everything here refers to **grok-imagine-2.0** — also written **grokimagine2.0** or **grok imagine 2.0**.
 
